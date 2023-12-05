@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Verma</h1>
 <h3 align="center">Data enthusiast from India with a passion for problem-solving and insights!!!</h3>
 
-<imag align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fproeffico.com%2Fdata-analytics%2F&psig=AOvVaw2lR42aAf2LsSShGaO11esK&ust=1701853974670000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPio4p7694IDFQAAAAAdAAAAABAh">
+<imag align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaygithubprofile&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaygithubprofile" /> </p>
 
