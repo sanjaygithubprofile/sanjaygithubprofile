@@ -1,3 +1,4 @@
+![logo](https://github.com/sanjaygithubprofile/sanjaygithubprofile/blob/main/Capture.JPG)
 <h1 align="center">Hi 👋, I'm Sanjay Verma</h1>
 <h3 align="center">Data enthusiast from India with a passion for problem-solving and insights!!!</h3>
 
