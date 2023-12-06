@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Verma</h1>
 <h3 align="center">Data enthusiast from India with a passion for problem-solving and insights!!!</h3>
 
-<img align="right" alt="coding" width="400" src="https://proeffico.com/wp-content/uploads/2022/09/daonline.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaygithubprofile&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaygithubprofile" /> </p>
 
